@@ -7,3 +7,4 @@ DDOS::DDOS(/* args */)
 DDOS::~DDOS()
 {
 }
+// for vscode
